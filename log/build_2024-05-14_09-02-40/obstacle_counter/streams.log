@@ -1,0 +1,34 @@
+[1.517s] Invoking command in '/home/san/obstacle_counter_ws/src/obstacle_counter': PYTHONPATH=/home/san/obstacle_counter_ws/build/obstacle_counter/prefix_override:/home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/obstacle_counter build --build-base /home/san/obstacle_counter_ws/build/obstacle_counter/build install --record /home/san/obstacle_counter_ws/build/obstacle_counter/install.log --single-version-externally-managed install_data
+[2.032s] running egg_info
+[2.032s] creating ../../build/obstacle_counter/obstacle_counter.egg-info
+[2.033s] writing ../../build/obstacle_counter/obstacle_counter.egg-info/PKG-INFO
+[2.033s] writing dependency_links to ../../build/obstacle_counter/obstacle_counter.egg-info/dependency_links.txt
+[2.033s] writing entry points to ../../build/obstacle_counter/obstacle_counter.egg-info/entry_points.txt
+[2.033s] writing requirements to ../../build/obstacle_counter/obstacle_counter.egg-info/requires.txt
+[2.033s] writing top-level names to ../../build/obstacle_counter/obstacle_counter.egg-info/top_level.txt
+[2.036s] writing manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+[2.087s] reading manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+[2.089s] writing manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+[2.089s] running build
+[2.089s] running build_py
+[2.090s] creating /home/san/obstacle_counter_ws/build/obstacle_counter/build
+[2.090s] creating /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib
+[2.090s] creating /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter
+[2.090s] copying obstacle_counter/__init__.py -> /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter
+[2.090s] running install
+[2.091s] running install_lib
+[2.093s] creating /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter
+[2.093s] copying /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter/__init__.py -> /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter
+[2.094s] byte-compiling /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter/__init__.py to __init__.cpython-38.pyc
+[2.096s] running install_data
+[2.097s] creating /home/san/obstacle_counter_ws/install/obstacle_counter/share/ament_index
+[2.097s] creating /home/san/obstacle_counter_ws/install/obstacle_counter/share/ament_index/resource_index
+[2.097s] creating /home/san/obstacle_counter_ws/install/obstacle_counter/share/ament_index/resource_index/packages
+[2.097s] copying resource/obstacle_counter -> /home/san/obstacle_counter_ws/install/obstacle_counter/share/ament_index/resource_index/packages
+[2.097s] copying package.xml -> /home/san/obstacle_counter_ws/install/obstacle_counter/share/obstacle_counter
+[2.097s] running install_egg_info
+[2.100s] Copying ../../build/obstacle_counter/obstacle_counter.egg-info to /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter-0.0.0-py3.8.egg-info
+[2.101s] running install_scripts
+[2.130s] Installing obstacle_counter script to /home/san/obstacle_counter_ws/install/obstacle_counter/lib/obstacle_counter
+[2.130s] writing list of installed files to '/home/san/obstacle_counter_ws/build/obstacle_counter/install.log'
+[2.164s] Invoked command in '/home/san/obstacle_counter_ws/src/obstacle_counter' returned '0': PYTHONPATH=/home/san/obstacle_counter_ws/build/obstacle_counter/prefix_override:/home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/obstacle_counter build --build-base /home/san/obstacle_counter_ws/build/obstacle_counter/build install --record /home/san/obstacle_counter_ws/build/obstacle_counter/install.log --single-version-externally-managed install_data

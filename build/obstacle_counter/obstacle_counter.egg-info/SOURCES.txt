@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/obstacle_counter/obstacle_counter.egg-info/PKG-INFO
+../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt
+../../build/obstacle_counter/obstacle_counter.egg-info/dependency_links.txt
+../../build/obstacle_counter/obstacle_counter.egg-info/entry_points.txt
+../../build/obstacle_counter/obstacle_counter.egg-info/requires.txt
+../../build/obstacle_counter/obstacle_counter.egg-info/top_level.txt
+../../build/obstacle_counter/obstacle_counter.egg-info/zip-safe
+obstacle_counter/__init__.py
+obstacle_counter/obstacle_counter.py
+resource/obstacle_counter
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

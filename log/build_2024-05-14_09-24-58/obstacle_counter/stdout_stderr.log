@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/obstacle_counter/obstacle_counter.egg-info/PKG-INFO
+writing dependency_links to ../../build/obstacle_counter/obstacle_counter.egg-info/dependency_links.txt
+writing entry points to ../../build/obstacle_counter/obstacle_counter.egg-info/entry_points.txt
+writing requirements to ../../build/obstacle_counter/obstacle_counter.egg-info/requires.txt
+writing top-level names to ../../build/obstacle_counter/obstacle_counter.egg-info/top_level.txt
+reading manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+writing manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+running build
+running build_py
+copying obstacle_counter/obstacle_counter.py -> /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter
+running install
+running install_lib
+copying /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter/obstacle_counter.py -> /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter
+byte-compiling /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter/obstacle_counter.py to obstacle_counter.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/obstacle_counter/obstacle_counter.egg-info to /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter-0.0.0-py3.8.egg-info
+running install_scripts
+Installing obstacle_counter script to /home/san/obstacle_counter_ws/install/obstacle_counter/lib/obstacle_counter
+writing list of installed files to '/home/san/obstacle_counter_ws/build/obstacle_counter/install.log'

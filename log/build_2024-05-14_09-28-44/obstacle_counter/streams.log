@@ -1,0 +1,24 @@
+[1.862s] Invoking command in '/home/san/obstacle_counter_ws/src/obstacle_counter': PYTHONPATH=/home/san/obstacle_counter_ws/build/obstacle_counter/prefix_override:/home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/obstacle_counter build --build-base /home/san/obstacle_counter_ws/build/obstacle_counter/build install --record /home/san/obstacle_counter_ws/build/obstacle_counter/install.log --single-version-externally-managed install_data
+[2.564s] running egg_info
+[2.566s] writing ../../build/obstacle_counter/obstacle_counter.egg-info/PKG-INFO
+[2.566s] writing dependency_links to ../../build/obstacle_counter/obstacle_counter.egg-info/dependency_links.txt
+[2.567s] writing entry points to ../../build/obstacle_counter/obstacle_counter.egg-info/entry_points.txt
+[2.567s] writing requirements to ../../build/obstacle_counter/obstacle_counter.egg-info/requires.txt
+[2.567s] writing top-level names to ../../build/obstacle_counter/obstacle_counter.egg-info/top_level.txt
+[2.633s] reading manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+[2.634s] writing manifest file '../../build/obstacle_counter/obstacle_counter.egg-info/SOURCES.txt'
+[2.634s] running build
+[2.634s] running build_py
+[2.635s] copying obstacle_counter/obstacle_counter.py -> /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter
+[2.635s] running install
+[2.636s] running install_lib
+[2.638s] copying /home/san/obstacle_counter_ws/build/obstacle_counter/build/lib/obstacle_counter/obstacle_counter.py -> /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter
+[2.639s] byte-compiling /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter/obstacle_counter.py to obstacle_counter.cpython-38.pyc
+[2.642s] running install_data
+[2.642s] running install_egg_info
+[2.647s] removing '/home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter-0.0.0-py3.8.egg-info' (and everything under it)
+[2.647s] Copying ../../build/obstacle_counter/obstacle_counter.egg-info to /home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages/obstacle_counter-0.0.0-py3.8.egg-info
+[2.649s] running install_scripts
+[2.683s] Installing obstacle_counter script to /home/san/obstacle_counter_ws/install/obstacle_counter/lib/obstacle_counter
+[2.683s] writing list of installed files to '/home/san/obstacle_counter_ws/build/obstacle_counter/install.log'
+[2.727s] Invoked command in '/home/san/obstacle_counter_ws/src/obstacle_counter' returned '0': PYTHONPATH=/home/san/obstacle_counter_ws/build/obstacle_counter/prefix_override:/home/san/obstacle_counter_ws/install/obstacle_counter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/obstacle_counter build --build-base /home/san/obstacle_counter_ws/build/obstacle_counter/build install --record /home/san/obstacle_counter_ws/build/obstacle_counter/install.log --single-version-externally-managed install_data

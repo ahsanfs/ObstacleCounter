@@ -1,0 +1,3 @@
+[console_scripts]
+obstacle_counter = obstacle_counter.obstacle_counter:main
+
